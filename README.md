@@ -55,11 +55,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)" />
-  <img alt="github-snake" src="[github-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)" />
-</picture>
+<img align="right" height="150" src="[https://media.giphy.com/media/UiUcePrcsgS5Qp0DUj/giphy.gif?cid=ecf05e474apy7htdnmzgjy1km0copsx1b6t3lffrcs62a75h&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)"  />
 
 ###
-
