@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alexis Pacon and I'm a Student from CVSU</h2>
+<h2 align="left">Hi 👋! My name is AlexisPacom and I'm a Student from ....</h2>
 
 ###
 
@@ -35,6 +35,6 @@
 
 ###
 
-<p align="left">Wishing a beautiful day to you😘</p>
+<p align="left">❤Wishing You A Beautiful Day😍</p>
 
 ###
